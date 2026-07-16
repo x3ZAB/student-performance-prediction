@@ -92,7 +92,7 @@ student-performance-prediction/
 Clone the repository:
 
 ```bash
-git clone <repository_link>
+git clone <(https://github.com/x3ZAB/student-performance-prediction.git)>
 ```
 
 Install dependencies:
