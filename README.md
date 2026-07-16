@@ -129,9 +129,3 @@ The project includes several visualizations:
 - XGBoost Regression
 - LightGBM Regression
 - Model Deployment with Streamlit
-
----
-
-## 👨‍💻 Author
-
-Ahmed Mahmoud
